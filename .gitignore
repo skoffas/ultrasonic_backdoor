@@ -1,0 +1,10 @@
+*.swp
+*.png
+*.svg
+**/images
+*.json
+**/__pycache__
+*.bak
+*.log
+*.zip
+**/data/**
