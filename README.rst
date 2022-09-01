@@ -44,10 +44,7 @@ P9 Lite mobile running Android 7 and installed in the phone with android-studio.
 About
 -----
 This is the corresponding code for the paper "Can You Hear It? Backdoor Attacks
-via Ultrasonic Triggers" that is about to be presented in WiseML '22 workshop.
-
-To cite our work please use (this is going to be updated when the WiseML
-bibtex entry is available)::
+via Ultrasonic Triggers" presented in WiseML '22 workshop.::
 
   @inproceedings{10.1145/3522783.3529523,
     author = {Koffas, Stefanos and Xu, Jing and Conti, Mauro and Picek, Stjepan},
