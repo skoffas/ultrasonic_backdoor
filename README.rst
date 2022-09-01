@@ -55,19 +55,6 @@ via Ultrasonic Triggers" presented in WiseML '22 workshop.::
     address = {New York, NY, USA},
     url = {https://doi.org/10.1145/3522783.3529523},
     doi = {10.1145/3522783.3529523},
-    abstract = {This work explores backdoor attacks for automatic speech
-    recognition systems where we inject inaudible triggers. By doing so, we make
-    the backdoor attack challenging to detect for legitimate users and,
-    consequently, potentially more dangerous. We conduct experiments on two
-    versions of a speech dataset and three neural networks and explore the
-    performance of our attack concerning the duration, position, and type of the
-    trigger.Our results indicate that less than 1% of poisoned data is sufficient
-    to deploy a backdoor attack and reach a 100% attack success rate. We observed
-    that short, non-continuous triggers result in highly successful attacks. Still,
-    since our trigger is inaudible, it can be as long as possible without raising
-    any suspicions making the attack more effective. Finally, we conduct our attack
-    on actual hardware and saw that an adversary could manipulate inference in an
-    Android application by playing the inaudible trigger over the air.},
     booktitle = {Proceedings of the 2022 ACM Workshop on Wireless Security and
     Machine Learning},
     pages = {57–62},
